@@ -1,0 +1,6 @@
+D:\Softheme_Internship\Abstraction_HW\Player\obj\Debug\Player.csprojResolveAssemblyReference.cache
+D:\Softheme_Internship\Abstraction_HW\Player\bin\Debug\Player.exe.config
+D:\Softheme_Internship\Abstraction_HW\Player\bin\Debug\Player.exe
+D:\Softheme_Internship\Abstraction_HW\Player\bin\Debug\Player.pdb
+D:\Softheme_Internship\Abstraction_HW\Player\obj\Debug\Player.exe
+D:\Softheme_Internship\Abstraction_HW\Player\obj\Debug\Player.pdb

@@ -1,0 +1,6 @@
+D:\Softheme_Internship\Abstraction_HW\Abstraction_HW\obj\Debug\AbstractHandler.csprojResolveAssemblyReference.cache
+D:\Softheme_Internship\Abstraction_HW\Abstraction_HW\bin\Debug\Abstraction_HW.exe.config
+D:\Softheme_Internship\Abstraction_HW\Abstraction_HW\bin\Debug\Abstraction_HW.exe
+D:\Softheme_Internship\Abstraction_HW\Abstraction_HW\bin\Debug\Abstraction_HW.pdb
+D:\Softheme_Internship\Abstraction_HW\Abstraction_HW\obj\Debug\Abstraction_HW.exe
+D:\Softheme_Internship\Abstraction_HW\Abstraction_HW\obj\Debug\Abstraction_HW.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractHandler", "Abstraction_HW\AbstractHandler.csproj", "{EDCF0102-2944-4DE8-90CD-A1CBBEA83465}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Player", "Player\Player.csproj", "{A2CBFF86-05DE-40CC-A20C-DB7CC331BFDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDCF0102-2944-4DE8-90CD-A1CBBEA83465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDCF0102-2944-4DE8-90CD-A1CBBEA83465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDCF0102-2944-4DE8-90CD-A1CBBEA83465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDCF0102-2944-4DE8-90CD-A1CBBEA83465}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2CBFF86-05DE-40CC-A20C-DB7CC331BFDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2CBFF86-05DE-40CC-A20C-DB7CC331BFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2CBFF86-05DE-40CC-A20C-DB7CC331BFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2CBFF86-05DE-40CC-A20C-DB7CC331BFDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
